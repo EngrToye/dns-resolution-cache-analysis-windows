@@ -95,6 +95,26 @@ This lab demonstrates the DNS resolution process on Windows systems and highligh
 
 
 
+Bonus: Clearing DNS Cache
+
+Command:
+
+ipconfig /flushdns
+
+Purpose:
+Clears local DNS cache to remove outdated or malicious records.
+
+
+
+
+
+Author
+
+Adetoye-Elemoro E.A.
+Aspiring Network & Cybersecurity Professional
+Nigeria
+
+
 
 
 
